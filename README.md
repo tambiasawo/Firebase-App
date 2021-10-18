@@ -1,4 +1,4 @@
-# http_requests
+# Firebase-app
 This app is an app that fetches a list of movies from a firebase datastore and also adds new movies to it.
 It uses a GET request to retrieve the movies and a POST request to add new movies
 
