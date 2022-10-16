@@ -70,6 +70,7 @@ function App() {
 
   return (
     <React.Fragment>
+      <h2>Movie Database</h2>
       <section>
         <AddMovie onAddMovie={addMovieHandler} />
       </section>
